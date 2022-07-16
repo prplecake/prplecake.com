@@ -1,0 +1,1 @@
+{"buildTargets":["all","build","check","clean","deploy","html-proof","install","serve","update"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
