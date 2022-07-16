@@ -15,3 +15,6 @@ _includes/version
 # Ignore environment normalization destinations
 .bundle/config
 vendor/bundle
+
+# Ignore VS Code logs...
+.vscode/*.log
