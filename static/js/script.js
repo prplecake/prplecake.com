@@ -40,7 +40,6 @@ window.addEventListener('load', () => {
     }
   ];
   links.forEach(link => {
-    console.log(`link: ${link.link}, event: ${link.event}`);
     try {
       addEvent(link.link, link.event)
     } catch (error) {
