@@ -12,7 +12,7 @@ window.addEventListener('load', () => {
     },
     {
       link: 'ext-link-mastodon',
-      event: 'ET8ULOOR'
+      event: 'BQMRS4PK'
     },
     {
       link: 'ext-link-email',
